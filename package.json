@@ -1,0 +1,23 @@
+{
+  "name": "fhmio.dev",
+  "version": "1.0.0",
+  "description": "Personal portfolio & blog for Fahmi Farid - DevOps Engineer | Python Developer",
+  "main": "index.js",
+  "scripts": {
+    "dev": "hugo server --minify -D -E -F"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fhmio/fhmio.dev.git"
+  },
+  "keywords": [
+    "portfolio",
+    "devops",
+    "python",
+    "hugo",
+    "blowfish"
+  ],
+  "author": "Fahmi Farid",
+  "license": "MIT",
+  "homepage": "https://fhmio.github.io/fhmio.dev/"
+}
